@@ -1,4 +1,4 @@
-# nikola tesla vortex mathematics
+# nikola tesla vortex mathematics---
 def powerOfRoot(arrayPowerOfTwo):
     nums = []
     print(arrayPowerOfTwo)
